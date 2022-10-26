@@ -1,11 +1,5 @@
 <template>
   <div>
-    <Body class="h-max" />
+    <Me class="min-h-screen bottom-0" />
   </div>
 </template>
-
-<script>
-export default {
-  name: 'IndexPage'
-}
-</script>
