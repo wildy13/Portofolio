@@ -4,12 +4,13 @@
  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
-.navigation{
-    position: fixed;
-    height: 100%;
-    transition: .5s;
-}
 
+@media (min-width: 300px) and (max-width: 800px) {
+    .navigation{
+        position: fixed;
+        height: 100%;
+        transition: .5s;
+    }    
 
 .hamburger, .bar{
     position: fixed;
@@ -56,4 +57,8 @@
 .hamburger.open #bar3{
     background-color: #fff;
     transform: rotate(-45deg) translate(6px, -5px);
+}
+.none{
+    display: none;
+}
 }

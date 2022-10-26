@@ -9,6 +9,11 @@
               <div class="text-center ml-1 text-white">Wildy Johanes Simanjuntak</div>
             </div>
             <div class="mr-2 text-white">
+              <a class="mx-2 none">Project</a>
+              <a class="mx-2 none">Contact</a>
+              <a class="mx-2 none">Github</a>
+              <a class="mx-2 none">Linkedin</a>
+              <a class="mx-2 none">Instagram</a>
               <div class="fixed z-0 h-0 top-0 right-0 overflow-y-hidden">
                 <div class="navigation text-center mt-7 top-20 w-40">
                   <a class="block text-zinc-300 p-2 text-sm no-underline" href="https://github.com/wildy13">Github</a>
@@ -16,7 +21,7 @@
                   <a class="block text-zinc-300 p-2 text-sm no-underline" href="https://www.instagram.com/jo.14m/">Instagram</a>
                 </div>
               </div>
-              <button class="hamburger mr-4 mobile:mr-4" @click="show()">
+              <button class="hamburger mr-4 mr-4" @click="show()">
                 <div id="bar1" class="bar" />
                 <div id="bar2" class="bar" />
                 <div id="bar3" class="bar" />
@@ -36,15 +41,12 @@
           production employee at Nok Freudenberg Sealing Technologies for a year, etc.
           i had worked on various projects, and maybe you can go to my Github for detail.
         </p>
-        <div class="flex mt-4">
+        <div class="mt-4">
           <div class="flex items-center bg-slate-400 rounded-lg w-36 justify-center hover:bg-zinc-900 hover:text-slate-200">
             <img src="../assets/img/email.svg" class="h-8 w-6">
             <a href="mailto:wildy.simanjuntak13@gmail.com" class="ml-2">Hire Me</a>
             </img>
           </div>
-          <a href="https://github.com/wildy13"><img src="../assets/img/github.png" class="h-8 w-10" /></a>
-          <a href="https://www.linkedin.com/in/wildy-simanjuntak-181a691a4"><img src="../assets/img/linkedin.png" class="h-8 w-10" /></a>
-          <a href="https://www.instagram.com/jo.14m/"><img src="../assets/img/instagram.png" class="h-8 w-10" /></a>
         </div>
       </div>
     </div>
