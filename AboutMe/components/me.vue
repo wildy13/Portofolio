@@ -9,16 +9,14 @@
               <div class="text-center ml-1 text-white">Wildy Johanes Simanjuntak</div>
             </div>
             <div class="mr-2 text-white">
+              <a class="mx-2 none">Home</a>
               <a class="mx-2 none">Project</a>
               <a class="mx-2 none">Contact</a>
-              <a class="mx-2 none">Github</a>
-              <a class="mx-2 none">Linkedin</a>
-              <a class="mx-2 none">Instagram</a>
               <div class="fixed z-0 h-0 top-0 right-0 overflow-y-hidden">
                 <div class="navigation text-center mt-7 top-20 w-40">
-                  <a class="block text-zinc-300 p-2 text-sm no-underline" href="https://github.com/wildy13">Github</a>
-                  <a class="block text-zinc-300 p-2 text-sm no-underline" href="https://www.linkedin.com/in/wildy-simanjuntak-181a691a4">linkedin</a>
-                  <a class="block text-zinc-300 p-2 text-sm no-underline" href="https://www.instagram.com/jo.14m/">Instagram</a>
+                  <a class="block text-zinc-300 p-2 text-sm no-underline">Home</a>
+                  <a class="block text-zinc-300 p-2 text-sm no-underline">Project</a>
+                  <a class="block text-zinc-300 p-2 text-sm no-underline">Contact</a>
                 </div>
               </div>
               <button class="hamburger mr-4 mr-4" @click="show()">
