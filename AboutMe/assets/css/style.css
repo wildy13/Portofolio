@@ -61,6 +61,14 @@
 .none{
     display: none;
 }
+
+.screen{
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
 }
 
 @media (min-width: 800px) {

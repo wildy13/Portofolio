@@ -7,6 +7,9 @@
             <div>
               <img src="https://i.postimg.cc/28Vftr6V/me.jpg" border="0" alt="me" class="rounded-full h-16 w-16 object-cover ml-2 mt-2" />
             </div>
+            <div class="text-slate-200 font-sans screen center">
+              <div class="text-center">About Me</div>
+            </div>
             <div class="text-slate-200 font-sans none flex">
               <div><a href="https://github.com/wildy13" class="mx-4">Github</a></div>
               <div><a href="https://www.linkedin.com/in/wildy-simanjuntak-181a691a4" class="mx-4">Linkedin</a></div>
