@@ -39,10 +39,10 @@
       </div>
       <div class="absolute right-0 py-2 none-desktop">
         <div class="my-2">
-          <a href="https://github.com/wildy13"><img src="../assets/img/github.svg" class="w-12 h-10" /></a>
+          <a href="https://github.com/wildy13"><img src="https://i.postimg.cc/xTVJPxgJ/github.png" border="0" alt="github" class="w-12 h-10" /></a>
         </div>
         <div class="my-2">
-          <a href="https://www.instagram.com/jo.14m/"><img src="../assets/img/instagram.svg" class="w-12 h-10" /></a>
+          <a href="https://www.instagram.com/jo.14m/"><img src="https://i.postimg.cc/HLnVLfWK/instagram.png" border="0" alt="instagram" class="w-12 h-10" /></a>
         </div>
         <div class="my-2">
           <a href="https://www.linkedin.com/in/wildy-simanjuntak-181a691a4"><img src="../assets/img/linkedin.svg" class="w-12 h-10" /></a>
