@@ -1,29 +1,12 @@
 <template>
   <div class="grid grid-rows-4 bg-zinc-900">
     <div class="shrink-0 pointer-events-auto row-start-1 h-24 border-b-2 border-zinc-800">
-      <div class="flex items-start border contents">
+      <div class="flex items-start">
         <div class="relative">
-          <div class="top-0 left-0 font-sans flex justify-between items-center">
+          <div class="grid grid-cols-2 top-0 left-0 font-sans items-center">
             <div class="flex items-center">
-              <img src="../assets/img/me.jpeg" class="rounded-full h-16 w-16 object-cover ml-2 mt-2" />
+              <img src="../assets/img/me.jpg" class="rounded-full h-16 w-16 object-cover ml-2 mt-2" />
               <div class="text-center ml-1 text-white">Wildy Johanes Simanjuntak</div>
-            </div>
-            <div class="mr-2 text-white">
-              <a class="mx-2 none">Home</a>
-              <a class="mx-2 none">Project</a>
-              <a class="mx-2 none">Contact</a>
-              <div class="fixed z-0 h-0 top-0 right-0 overflow-y-hidden">
-                <div class="navigation text-center mt-7 top-20 w-40">
-                  <a class="block text-zinc-300 p-2 text-sm no-underline">Home</a>
-                  <a class="block text-zinc-300 p-2 text-sm no-underline">Project</a>
-                  <a class="block text-zinc-300 p-2 text-sm no-underline">Contact</a>
-                </div>
-              </div>
-              <button class="hamburger mr-4 mr-4" @click="show()">
-                <div id="bar1" class="bar" />
-                <div id="bar2" class="bar" />
-                <div id="bar3" class="bar" />
-              </button>
             </div>
           </div>
         </div>
@@ -45,6 +28,17 @@
             <a href="mailto:wildy.simanjuntak13@gmail.com" class="ml-2">Hire Me</a>
             </img>
           </div>
+        </div>
+      </div>
+      <div class="absolute right-0 py-2">
+        <div class="my-2">
+          <a href=""><img src="../assets/img/github.png" class="w-12 h-10" /></a>
+        </div>
+        <div class="my-2">
+          <a href=""><img src="../assets/img/instagram.png" class="w-12 h-10" /></a>
+        </div>
+        <div class="my-2">
+          <a href=""><img src="../assets/img/linkedin.png" class="w-12 h-10" /></a>
         </div>
       </div>
     </div>
