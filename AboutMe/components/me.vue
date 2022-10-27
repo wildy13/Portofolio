@@ -1,12 +1,16 @@
 <template>
   <div class="grid grid-rows-4 bg-zinc-900">
     <div class="shrink-0 pointer-events-auto row-start-1 h-24 border-b-2 border-zinc-800">
-      <div class="flex items-start">
-        <div class="relative">
-          <div class="grid grid-cols-2 top-0 left-0 font-sans items-center">
-            <div class="flex items-center">
+      <div class="items-start">
+        <div>
+          <div class="flex justify-between font-sans items-center">
+            <div>
               <img src="https://i.postimg.cc/28Vftr6V/me.jpg" border="0" alt="me" class="rounded-full h-16 w-16 object-cover ml-2 mt-2" />
-              <div class="text-center ml-1 text-white">Wildy Johanes Simanjuntak</div>
+            </div>
+            <div class="text-slate-200 font-sans none flex">
+              <div><a href="https://github.com/wildy13" class="mx-4">Github</a></div>
+              <div><a href="https://www.linkedin.com/in/wildy-simanjuntak-181a691a4" class="mx-4">Linkedin</a></div>
+              <div><a href="https://www.instagram.com/jo.14m/" class="mx-4">Instagram</a></div>
             </div>
           </div>
         </div>
@@ -30,7 +34,7 @@
           </div>
         </div>
       </div>
-      <div class="absolute right-0 py-2">
+      <div class="absolute right-0 py-2 none-desktop">
         <div class="my-2">
           <a href="https://github.com/wildy13"><img src="../assets/img/github.svg" class="w-12 h-10" /></a>
         </div>

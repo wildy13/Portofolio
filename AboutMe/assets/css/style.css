@@ -62,3 +62,9 @@
     display: none;
 }
 }
+
+@media (min-width: 800px) {
+    .none-desktop{
+        display: none;
+    }
+}
