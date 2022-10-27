@@ -32,26 +32,15 @@
       </div>
       <div class="absolute right-0 py-2">
         <div class="my-2">
-          <a href=""><img src="../assets/img/github.png" class="w-12 h-10" /></a>
+          <a href="https://github.com/wildy13"><img src="../assets/img/github.png" class="w-12 h-10" /></a>
         </div>
         <div class="my-2">
-          <a href=""><img src="../assets/img/instagram.png" class="w-12 h-10" /></a>
+          <a href="https://www.instagram.com/jo.14m/"><img src="../assets/img/instagram.png" class="w-12 h-10" /></a>
         </div>
         <div class="my-2">
-          <a href=""><img src="../assets/img/linkedin.png" class="w-12 h-10" /></a>
+          <a href="https://www.linkedin.com/in/wildy-simanjuntak-181a691a4"><img src="../assets/img/linkedin.png" class="w-12 h-10" /></a>
         </div>
       </div>
     </div>
   </div>
 </template>
-
-<script>
-export default {
-  methods: {
-    show () {
-      document.querySelector('.hamburger').classList.toggle('open')
-      document.querySelector('.navigation').classList.toggle('active')
-    }
-  }
-}
-</script>
