@@ -5,7 +5,7 @@
         <div class="relative">
           <div class="grid grid-cols-2 top-0 left-0 font-sans items-center">
             <div class="flex items-center">
-              <img src="../assets/img/me.jpg" class="rounded-full h-16 w-16 object-cover ml-2 mt-2" />
+              <img src="https://i.postimg.cc/28Vftr6V/me.jpg" border="0" alt="me" class="rounded-full h-16 w-16 object-cover ml-2 mt-2" />
               <div class="text-center ml-1 text-white">Wildy Johanes Simanjuntak</div>
             </div>
           </div>
@@ -32,13 +32,13 @@
       </div>
       <div class="absolute right-0 py-2">
         <div class="my-2">
-          <a href="https://github.com/wildy13"><img src="../assets/img/github.png" class="w-12 h-10" /></a>
+          <a href="https://github.com/wildy13"><img src="../assets/img/github.svg" class="w-12 h-10" /></a>
         </div>
         <div class="my-2">
-          <a href="https://www.instagram.com/jo.14m/"><img src="../assets/img/instagram.png" class="w-12 h-10" /></a>
+          <a href="https://www.instagram.com/jo.14m/"><img src="../assets/img/instagram.svg" class="w-12 h-10" /></a>
         </div>
         <div class="my-2">
-          <a href="https://www.linkedin.com/in/wildy-simanjuntak-181a691a4"><img src="../assets/img/linkedin.png" class="w-12 h-10" /></a>
+          <a href="https://www.linkedin.com/in/wildy-simanjuntak-181a691a4"><img src="../assets/img/linkedin.svg" class="w-12 h-10" /></a>
         </div>
       </div>
     </div>
